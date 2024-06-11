@@ -1,5 +1,10 @@
 # Web-programming
 
+### Contents
+Has data about:
+1. Vanilla HTML/CSS/JavaScript
+2. ReactJS
+
 ### Session 1
 1. Module 1
 2. Boilerplate and basic HTML tags (until `<img>` tag)
